@@ -1,6 +1,4 @@
-
 import React, { useState, useEffect, useRef } from 'react';
-
 const LOG_MESSAGES = [
   "INBOUND: TCP 443 -> 192.168.1.45 [ACCEPTED]",
   "INBOUND: TCP 22 -> 192.168.1.102 [REJECTED]",
